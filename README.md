@@ -20,7 +20,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShahhNasir&label=Profile%20views&color=0e75b6&style=flat" alt="ShahhNasir" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/faiz608](https://github.com/mdmuneebali)
+- 👨‍💻 All of my projects are available at [https://github.com/faiz608](https://github.com/faiz608)
 
 - 💬 Ask me about **Data Science | Machine Learning | Data Analysis | DevOps**
 
